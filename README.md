@@ -7,6 +7,9 @@
 | ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of Flashcards app | WPF, C# | ✅ Completed |
 | 🔐 [Quizlet](https://github.com/Londongrad/Quizlet) | ASP.NET Core WebAPI + React CRUD project with JWT | C#, React | ❄️ On hold |
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Londongrad&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Londongrad&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **Londongrad/Londongrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
