@@ -8,6 +8,7 @@
 | 🔐 [Quizlet](https://github.com/Londongrad/Quizlet) | ASP.NET Core WebAPI + React CRUD project with JWT | C#, React | ❄️ On hold |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Londongrad&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Londongrad&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Londongrad&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
