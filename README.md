@@ -5,7 +5,7 @@
 | 🐦 [Birds](https://github.com/Londongrad/Birds) | Bird tracking app (WPF MVVM DDD Clean Architecture) | WPF, C# | ✅ Completed |
 | 💻 [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | ASP.NET Core MVC diploma project | ASP.NET, HTML, CSS, JS | ✅ Completed |
 | ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of Flashcards app | WPF, C# | ✅ Completed |
-| 🔐 [Quizlet](https://github.com/Londongrad/Quizlet) | ASP.NET Core WebAPI + React CRUD project with JWT | C#, React | ❄️ On hold |
+| 🏙️ [Matrix](https://github.com/Londongrad/Matrix) | The city simulation app | TBA | 🛠 In development |
 
 ## 📊 GitHub Stats
 
