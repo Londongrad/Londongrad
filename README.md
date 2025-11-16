@@ -2,7 +2,7 @@
 
 | Project | Description | Technologies | Status |
 |----------|--------------|---------------|---------|
-| 🐦 [Birds](https://github.com/Londongrad/Birds) | Bird tracking app (WPF, MVVM, DDD, Clean Architecture). My latest project 🚀  | WPF, C# | ✅ Completed |
+| 🐦 [Birds](https://github.com/Londongrad/Birds) | Bird tracking app (WPF, MVVM, DDD, Clean Architecture). My latest project 🚀 | WPF, C# | ✅ Completed |
 | 💻 [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | ASP.NET Core MVC diploma project | ASP.NET, HTML, CSS, JS | ✅ Completed |
 | ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of Flashcards app | WPF, C# | ✅ Completed |
 | 🏙️ [Matrix](https://github.com/Londongrad/Matrix) | Real-time city simulation (The Matrix) | TBA | 🚧 In development |
