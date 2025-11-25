@@ -1,11 +1,13 @@
 ## 🚀 My Projects
 
 | Project | Description | Technologies | Status |
-|----------|--------------|---------------|---------|
-| 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix) | Real-time city simulation (The Matrix) | ASP.NET, React, TypeScript | 🚧 In development |
-| 🐦 [Birds](https://github.com/Londongrad/Birds) | Bird tracking app (WPF, MVVM, DDD, Clean Architecture). My latest project 🚀 | WPF, C# | ✅ Completed |
-| 💻 [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | ASP.NET Core MVC diploma project | ASP.NET, HTML, CSS, JS | ✅ Completed |
-| ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of Flashcards app | WPF, C# | ✅ Completed |
+|--------|-------------|--------------|--------|
+| 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix) | Real-time city simulation | ASP.NET Core, React, TypeScript | 🚧 In development |
+| 🐦 [Birds](https://github.com/Londongrad/Birds) | WPF desktop app for bird tracking and analytics (MVVM, CQRS, DDD, Clean Architecture). My latest completed project 🚀 | WPF, C# | ✅ Completed |
+| 💻 [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | Web flashcards app, diploma project | ASP.NET Core MVC, HTML, CSS, JS | ✅ Completed |
+| ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of the flashcards app with improved UX | WPF, C# | ✅ Completed |
+
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -17,18 +19,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Londongrad&theme=tokyonight" height="160" />
 
 </div>
-
-<!--
-**Londongrad/Londongrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
