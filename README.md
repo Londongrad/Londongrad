@@ -9,7 +9,7 @@ Each city runs as its own evolving simulation with independent logic and state.
 
 <br/>
 
-## 🌟 Other Projects
+## 🚀 Other Projects
 
 | Project | Description | Technologies | Status |
 |--------|-------------|--------------|--------|
