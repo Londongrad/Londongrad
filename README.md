@@ -14,6 +14,6 @@
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Londongrad&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Londongrad&theme=tokyonight" height="160" />
 
 </div>
