@@ -1,7 +1,7 @@
 ## 🌟 Featured Project
 
 ### 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix)
-A real-time city simulation platform and my main long-term project.  
+A real-time city simulation platform and **my main long-term** project.  
 Each city runs as its own evolving simulation with independent logic and state.
 
 **Tech stack:** ASP.NET Core, React, TypeScript  
