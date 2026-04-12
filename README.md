@@ -1,5 +1,3 @@
-# 🚀 My Projects
-
 ## 🌟 Featured Project
 
 ### 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix)
@@ -8,6 +6,8 @@ Each city runs as its own evolving simulation with independent logic and state.
 
 **Tech stack:** ASP.NET Core, React, TypeScript  
 **Status:** 🚧 In active development
+
+<br/>
 
 ## 🌟 Other Projects
 
