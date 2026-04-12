@@ -1,8 +1,18 @@
-## 🚀 My Projects
+# 🚀 My Projects
+
+## 🌟 Featured Project
+
+### 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix)
+A real-time city simulation platform and my main long-term project.  
+Each city runs as its own evolving simulation with independent logic and state.
+
+**Tech stack:** ASP.NET Core, React, TypeScript  
+**Status:** 🚧 In active development
+
+## 🌟 Other Projects
 
 | Project | Description | Technologies | Status |
 |--------|-------------|--------------|--------|
-| 🏙️ [TheMatrix](https://github.com/Londongrad/TheMatrix) | Real-time city simulation | ASP.NET Core, React, TypeScript | 🚧 In development |
 | 🐦 [Birds](https://github.com/Londongrad/Birds) | WPF desktop app for bird tracking and analytics (MVVM, DDD, Clean Architecture). My latest completed project 🚀 | WPF, C# | ✅ Completed |
 | 💻 [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | Web flashcards app, diploma project | ASP.NET Core MVC, HTML, CSS, JS | ✅ Completed |
 | ⚡ [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF version of the flashcards app with improved UX | WPF, C# | ✅ Completed |
