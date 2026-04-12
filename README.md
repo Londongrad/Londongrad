@@ -11,9 +11,7 @@
 
 <div align="center">
 
-  <a href="https://metrics.lecoq.io/Londongrad">
-    <img src="https://metrics.lecoq.io/Londongrad" alt="GitHub Metrics for Londongrad" width="100%">
-  </a>
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Londongrad&theme=tokyonight" height="160" />
 
