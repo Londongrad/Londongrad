@@ -14,7 +14,7 @@ Each city runs as its own evolving simulation with independent logic and state.
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | [Birds](https://github.com/Londongrad/Birds) | Bird tracking desktop app | WPF, C# | ✅ Completed |
-| [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | Web flashcards app | ASP.NET Core MVC, JS | ✅ Completed |
+| [Flashcards-Web](https://github.com/Londongrad/Flashcards-Web) | Web flashcards app, diploma project | ASP.NET Core MVC, HTML, CSS, JS | ✅ Completed |
 | [Flashcards-2.0](https://github.com/Londongrad/Flashcards-2.0) | Reworked WPF flashcards app | WPF, C# | ✅ Completed |
 
 ## 📊 GitHub Stats
